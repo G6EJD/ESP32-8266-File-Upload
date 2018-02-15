@@ -1,4 +1,4 @@
-# ESP32-8266-FIle-Upload
+# ESP32-ESP8266 File Upload and Download
 
 Using HTTP and an HTML interface to download files from an ESP32/ESP8266
 
